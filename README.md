@@ -5,7 +5,7 @@
 * **辞典翻訳ファイル提供者**: shoki, yuu
 * **辞典翻訳参照元**： [PRD_J ウィキ](https://w.atwiki.jp/prdj/)
 * **対応pf1eバージョン**: 0.51+
-* **modバージョン**: 1.7
+* **modバージョン**: 2.0
 
 ### インストール方法
 
@@ -26,6 +26,20 @@ Pathfinder1eシステム用の翻訳ファイルを追加し、日本語化す�
 
 ### 注意点
 * 種族の翻訳ですが編集の都合でPRDJの書式に変更しましたので、原文のd20PFSRDの書式とレイアウトが違います。またPRDJの範囲外の種族は未編集であるのと、範囲内でも一部の種族で未翻訳の特性（例えばチェンジリングのWind Breakerなど）が書かれていた項目は出典の確認に時間が掛かるので記載していません
+
+
+設定の **Pathfinder Token Pack: Bestiariesの画像を使用する** にチェックを入れると、PF1 Bestiary MODの画像をPathfinder Token Pack: Bestiariesのものに置き換えることができます。  
+この機能を使用するにはPathfinder Token Pack: Bestiariesを購入しインストールしておく必要があります。
+
+Pathfinder Token Pack: Bestiaries  
+https://foundryvtt.com/packages/pf2e-tokens-bestiaries  
+PF1 Bestiary  
+https://foundryvtt.com/packages/pf1-bestiary
+
+
+### スクリプト引用元
+Pathfinder 1 - Traduction FR (Babele)  
+https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele
 
 ### 本体の日本語化
 FVTT本体の日本語化はこちらからどうぞ
