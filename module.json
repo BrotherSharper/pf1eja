@@ -4,8 +4,8 @@
 	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むモッド。",
 	"version": "This is auto replaced",
 	"compatibility": {
-		"minimum": "10",
-		"verified": "10"
+		"minimum": "11",
+		"verified": "11"
 	},
 	"author": "Brother Sharp, Chiikun, Shoki, Yuu",
 	"languages": [
